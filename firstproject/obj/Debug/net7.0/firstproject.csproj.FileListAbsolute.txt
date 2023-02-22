@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\bin\Debug\net7.0\firstproject.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\bin\Debug\net7.0\firstproject.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\bin\Debug\net7.0\firstproject.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\bin\Debug\net7.0\firstproject.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\bin\Debug\net7.0\firstproject.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\refint\firstproject.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\firstproject.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Лекция 1\Examples\firstproject\obj\Debug\net7.0\ref\firstproject.dll
